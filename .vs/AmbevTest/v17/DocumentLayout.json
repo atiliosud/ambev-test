@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AmbevTest\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|c:\\users\\vitor.pereira\\source\\repos\\ambevtest\\ambevtest\\controllers\\revendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|solutionrelative:ambevtest\\controllers\\revendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|c:\\users\\vitor.pereira\\source\\repos\\ambevtest\\ambevtest\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|solutionrelative:ambevtest\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|c:\\users\\vitor.pereira\\source\\repos\\ambevtest\\ambevtest\\controllers\\mockambevapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|solutionrelative:ambevtest\\controllers\\mockambevapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|c:\\users\\vitor.pereira\\source\\repos\\ambevtest\\ambevtest\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|solutionrelative:ambevtest\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|c:\\users\\vitor.pereira\\source\\repos\\ambevtest\\ambevtest\\services\\revendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|solutionrelative:ambevtest\\services\\revendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|c:\\users\\vitor.pereira\\source\\repos\\ambevtest\\ambevtest\\models\\pedido\\criarpedidorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|solutionrelative:ambevtest\\models\\pedido\\criarpedidorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|c:\\users\\vitor.pereira\\source\\repos\\ambevtest\\ambevtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|solutionrelative:ambevtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|c:\\users\\vitor.pereira\\source\\repos\\ambevtest\\ambevtest\\models\\revenda\\criarrevendarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|solutionrelative:ambevtest\\models\\revenda\\criarrevendarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|c:\\users\\vitor.pereira\\source\\repos\\ambevtest\\ambevtest\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5311CFB5-22B2-4836-A43E-8075604C9E43}|AmbevTest\\AmbevTest.csproj|solutionrelative:ambevtest\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 29,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "AmbevTest\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "AmbevTest\\Controllers\\PedidoController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:35:11.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RevendaService.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Services\\RevendaService.cs",
+              "RelativeDocumentMoniker": "AmbevTest\\Services\\RevendaService.cs",
+              "ToolTip": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Services\\RevendaService.cs",
+              "RelativeToolTip": "AmbevTest\\Services\\RevendaService.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAqwIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:26:42.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CriarPedidoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Models\\Pedido\\CriarPedidoRequest.cs",
+              "RelativeDocumentMoniker": "AmbevTest\\Models\\Pedido\\CriarPedidoRequest.cs",
+              "ToolTip": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Models\\Pedido\\CriarPedidoRequest.cs",
+              "RelativeToolTip": "AmbevTest\\Models\\Pedido\\CriarPedidoRequest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:36:53.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MockAmbevApiController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Controllers\\MockAmbevApiController.cs",
+              "RelativeDocumentMoniker": "AmbevTest\\Controllers\\MockAmbevApiController.cs",
+              "ToolTip": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Controllers\\MockAmbevApiController.cs",
+              "RelativeToolTip": "AmbevTest\\Controllers\\MockAmbevApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:14:36.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CriarRevendaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Models\\Revenda\\CriarRevendaRequest.cs",
+              "RelativeDocumentMoniker": "AmbevTest\\Models\\Revenda\\CriarRevendaRequest.cs",
+              "ToolTip": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Models\\Revenda\\CriarRevendaRequest.cs",
+              "RelativeToolTip": "AmbevTest\\Models\\Revenda\\CriarRevendaRequest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:42:47.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RevendaController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Controllers\\RevendaController.cs",
+              "RelativeDocumentMoniker": "AmbevTest\\Controllers\\RevendaController.cs",
+              "ToolTip": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Controllers\\RevendaController.cs",
+              "RelativeToolTip": "AmbevTest\\Controllers\\RevendaController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:26:23.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "AmbevTest\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Services\\PedidoService.cs",
+              "RelativeToolTip": "AmbevTest\\Services\\PedidoService.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAgwIkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:58:44.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "AmbevTest\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "AmbevTest\\Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:52:13.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Program.cs",
+              "RelativeDocumentMoniker": "AmbevTest\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\Program.cs",
+              "RelativeToolTip": "AmbevTest\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBZwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:26:00.884Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 31,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "AmbevTest\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\vitor.pereira\\source\\repos\\AmbevTest\\AmbevTest\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "AmbevTest\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:30:50.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
